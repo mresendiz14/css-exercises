@@ -15,16 +15,18 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin-left: 8px;
-  margin-right: 8px;
+  padding: 8px;
   margin-bottom: 16px;
 }
 
 .button-container {
   background: #e3f4ff;
+  display: center;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
 }
